@@ -1,0 +1,63 @@
+:root {
+  --app-background: #050505;
+  --surface-background: rgba(18, 18, 18, 0.82);
+  --surface-border: rgba(255, 255, 255, 0.12);
+  --text-primary: #ffffff;
+  --text-secondary: rgba(255, 255, 255, 0.84);
+  --accent: #d70015;
+  color-scheme: dark;
+  font-family: "Avenir Next", Inter, system-ui, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  min-height: 100%;
+  overflow-x: hidden;
+  overscroll-behavior-x: none;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  background:
+    radial-gradient(circle at top, rgba(242, 191, 135, 0.14), transparent 24%),
+    radial-gradient(circle at bottom, rgba(117, 12, 27, 0.22), transparent 32%),
+    var(--app-background);
+}
+
+#root {
+  width: 100%;
+}
+
+img {
+  display: block;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+a {
+  color: inherit;
+}
+
+@media (max-width: 720px) {
+  body {
+    display: block;
+  }
+}

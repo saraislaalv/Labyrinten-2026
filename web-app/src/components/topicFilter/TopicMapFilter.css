@@ -1,0 +1,116 @@
+.topic-filter-overlay {
+  position: absolute;
+  top: 0;
+  inset-inline: 0;
+  z-index: 595;
+  padding: 42px 14px 14px;
+  display: flex;
+  justify-content: flex-end;
+  pointer-events: none;
+}
+
+.topic-filter-wrapper {
+  position: relative;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  pointer-events: auto;
+}
+
+.topic-filter-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 0;
+  border-radius: 999px;
+  padding: 10px 14px;
+  color: var(--text-primary);
+  background: rgba(10, 10, 10, 0.76);
+  backdrop-filter: blur(18px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.topic-filter-button__icon {
+  font-size: 0.86rem;
+  line-height: 1;
+  letter-spacing: -0.03em;
+}
+
+.topic-filter-backdrop {
+  position: absolute;
+  inset: 0;
+  z-index: 590;
+  border: 0;
+  background: transparent;
+}
+
+.topic-filter-dropdown {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  z-index: 600;
+  width: 152px;
+  padding: 0 6px;
+  background: rgba(10, 10, 10, 0.92);
+  backdrop-filter: blur(22px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+  overflow: hidden;
+  max-height: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition:
+    max-height 0.28s ease,
+    opacity 0.2s ease,
+    padding 0.28s ease;
+}
+
+.topic-filter-dropdown--open {
+  max-height: 520px;
+  opacity: 1;
+  pointer-events: auto;
+  padding: 6px;
+}
+
+.topic-filter-legend {
+  list-style: none;
+  margin: 4px 0;
+  padding: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.topic-filter-legend__item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  padding: 7px 8px;
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text-primary);
+  font-size: 0.92rem;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.topic-filter-legend__item:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.topic-filter-legend__item--active {
+  background: rgba(255, 255, 255, 0.14);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.topic-filter-legend__dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 999px;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.2);
+  flex-shrink: 0;
+}

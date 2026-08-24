@@ -1,0 +1,11 @@
+{
+  "name": "labyrinten-vg-x-coacher",
+  "version": "1.0.0",
+  "scripts": {
+    "heroku-postbuild": "cd web-app && npm install --include=dev && npm run build && cd ../backend && npm install --include=dev && npm run build",
+    "start": "node backend/dist/server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

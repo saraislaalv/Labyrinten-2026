@@ -1,0 +1,19 @@
+{
+  "name": "vg-x-labyrinten-backend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "tsx": "^4.20.6",
+    "typescript": "~6.0.2"
+  }
+}

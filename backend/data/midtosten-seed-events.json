@@ -1,0 +1,1333 @@
+[
+  {
+    "id": "seed-damascus-consulate-strike-2024-04-01",
+    "type": "bombing",
+    "headline": "Angrep mot Irans konsulat i Damaskus",
+    "description": "Luftangrepet mot Irans konsulat i Damaskus i april 2024 ble et viktig vendepunkt i regional eskalering.",
+    "publishedAt": "2024-04-01T15:15:00Z",
+    "location": {
+      "lat": 33.503889,
+      "lon": 36.260444
+    },
+    "address": {
+      "road": null,
+      "suburb": "Mezzeh",
+      "city": "Damaskus",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Syria"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Israeli_airstrike_on_the_Iranian_consulate_in_Damascus",
+      "https://apnews.com/article/edca34c52d38c8bc57281e4ebf33b240"
+    ],
+    "note": "Koordinat fra Wikipedia-infoboks."
+  },
+  {
+    "id": "seed-kerman-bombings-2024-01-03",
+    "type": "bombing",
+    "headline": "Dobbel bombe ved minneseremoni i Kerman",
+    "description": "Tvillingeksplosjonene i Kerman 3. januar 2024 var en av de mest dodelige terrorhendelsene i Iran de siste arene.",
+    "publishedAt": "2024-01-03T14:30:00Z",
+    "location": {
+      "lat": 30.2783,
+      "lon": 57.1208
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Kerman",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2024_Kerman_bombings",
+      "https://apnews.com/article/3503bdbaa3d0815996e4010224bd5dcc"
+    ],
+    "note": "Koordinat fra Wikipedia-infoboks."
+  },
+  {
+    "id": "seed-rafah-camp-strike-2024-05-26",
+    "type": "bombing",
+    "headline": "Luftangrep ved teltleir i Rafah",
+    "description": "Hendelsen i Rafah i mai 2024 ble internasjonalt omtalt etter hoye sivile tap i og rundt en fordrevet-leir.",
+    "publishedAt": "2024-05-26T21:10:00Z",
+    "location": {
+      "lat": 31.2725,
+      "lon": 34.25861
+    },
+    "address": {
+      "road": null,
+      "suburb": "Tel al-Sultan",
+      "city": "Rafah",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Palestina"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://apnews.com/article/7b743a848ef8bfbe69a9659a4a5dd047",
+      "https://en.wikipedia.org/wiki/Rafah"
+    ],
+    "note": "Koordinat satt til Rafah sentrum for kartplassering."
+  },
+  {
+    "id": "seed-gaza-city-airstrikes-2024-01-15",
+    "type": "bombing",
+    "headline": "Rapporterte luftangrep i Gaza by",
+    "description": "Kartpunkt for gjentatte bombing-hendelser i Gaza by i krigsperioden.",
+    "publishedAt": "2024-01-15T10:00:00Z",
+    "location": {
+      "lat": 31.5075,
+      "lon": 34.45972
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Gaza by",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Palestina"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Gaza_City"
+    ],
+    "note": "By-koordinat brukt som omtrentlig bombing-lokasjon."
+  },
+  {
+    "id": "seed-khan-younis-strikes-2024-02-11",
+    "type": "bombing",
+    "headline": "Rapporterte luftangrep i Khan Younis",
+    "description": "Kartpunkt for bombing-hendelser i Khan Younis-omradet.",
+    "publishedAt": "2024-02-11T12:15:00Z",
+    "location": {
+      "lat": 31.346,
+      "lon": 34.306
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Khan Younis",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Palestina"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Khan_Yunis"
+    ],
+    "note": "By-koordinat brukt som omtrentlig bombing-lokasjon."
+  },
+  {
+    "id": "seed-deir-al-balah-strikes-2024-03-03",
+    "type": "bombing",
+    "headline": "Rapporterte luftangrep i Deir al-Balah",
+    "description": "Kartpunkt for bombing-hendelser i Deir al-Balah.",
+    "publishedAt": "2024-03-03T09:20:00Z",
+    "location": {
+      "lat": 31.418,
+      "lon": 34.35
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Deir al-Balah",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Palestina"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Deir_al-Balah"
+    ],
+    "note": "By-koordinat brukt som omtrentlig bombing-lokasjon."
+  },
+  {
+    "id": "seed-nuseirat-strikes-2024-04-18",
+    "type": "bombing",
+    "headline": "Rapporterte luftangrep i Nuseirat",
+    "description": "Kartpunkt for bombing-hendelser i Nuseirat-leiren.",
+    "publishedAt": "2024-04-18T14:45:00Z",
+    "location": {
+      "lat": 31.446,
+      "lon": 34.392
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Nuseirat",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Palestina"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Nuseirat_Camp"
+    ],
+    "note": "By-koordinat brukt som omtrentlig bombing-lokasjon."
+  },
+  {
+    "id": "seed-jabalia-strikes-2024-05-12",
+    "type": "bombing",
+    "headline": "Rapporterte luftangrep i Jabalia",
+    "description": "Kartpunkt for bombing-hendelser i Jabalia-omradet.",
+    "publishedAt": "2024-05-12T07:30:00Z",
+    "location": {
+      "lat": 31.535,
+      "lon": 34.495
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Jabalia",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Palestina"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Jabalia"
+    ],
+    "note": "By-koordinat brukt som omtrentlig bombing-lokasjon."
+  },
+  {
+    "id": "seed-beirut-haret-hreik-strike-2024-07-30",
+    "type": "bombing",
+    "headline": "Angrep i Sor-Beirut (Haret Hreik)",
+    "description": "Angrepet i Haret Hreik i juli 2024 drepte Hezbollah-kommandor Fuad Shukr.",
+    "publishedAt": "2024-07-30T16:40:00Z",
+    "location": {
+      "lat": 33.89806,
+      "lon": 35.50583
+    },
+    "address": {
+      "road": null,
+      "suburb": "Haret Hreik",
+      "city": "Beirut",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Libanon"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Killing_of_Fuad_Shukr",
+      "https://apnews.com/article/a6a95169a21b45dc86d86182e255fa7e",
+      "https://en.wikipedia.org/wiki/Beirut"
+    ],
+    "note": "Koordinat satt til Beirut bykoordinat i v1."
+  },
+  {
+    "id": "seed-tyre-strikes-2024-10-06",
+    "type": "bombing",
+    "headline": "Rapporterte luftangrep i Tyre",
+    "description": "Kartpunkt for bombing-hendelser i Tyre-regionen under opptrappingen i Libanon.",
+    "publishedAt": "2024-10-06T19:10:00Z",
+    "location": {
+      "lat": 33.2733,
+      "lon": 35.1939
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Tyre",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Libanon"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Tyre,_Lebanon"
+    ],
+    "note": "By-koordinat brukt som omtrentlig bombing-lokasjon."
+  },
+  {
+    "id": "seed-nabatieh-strikes-2024-10-09",
+    "type": "bombing",
+    "headline": "Rapporterte luftangrep i Nabatieh",
+    "description": "Kartpunkt for bombing-hendelser i Nabatieh-omradet.",
+    "publishedAt": "2024-10-09T21:25:00Z",
+    "location": {
+      "lat": 33.3772,
+      "lon": 35.4833
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Nabatieh",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Libanon"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Nabatieh"
+    ],
+    "note": "By-koordinat brukt som omtrentlig bombing-lokasjon."
+  },
+  {
+    "id": "seed-aleppo-strikes-2024-12-08",
+    "type": "bombing",
+    "headline": "Rapporterte luftangrep ved Aleppo",
+    "description": "Kartpunkt for rapporterte bombing-hendelser i Aleppo-området.",
+    "publishedAt": "2024-12-08T13:00:00Z",
+    "location": {
+      "lat": 36.2021,
+      "lon": 37.1343
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Aleppo",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Syria"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Aleppo"
+    ],
+    "note": "By-koordinat brukt som omtrentlig bombing-lokasjon."
+  },
+  {
+    "id": "seed-homs-strikes-2024-11-14",
+    "type": "bombing",
+    "headline": "Rapporterte luftangrep ved Homs",
+    "description": "Kartpunkt for bombing-hendelser i Homs-regionen.",
+    "publishedAt": "2024-11-14T18:50:00Z",
+    "location": {
+      "lat": 34.7304,
+      "lon": 36.7097
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Homs",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Syria"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Homs"
+    ],
+    "note": "By-koordinat brukt som omtrentlig bombing-lokasjon."
+  },
+  {
+    "id": "seed-sanaa-strikes-2025-01-12",
+    "type": "bombing",
+    "headline": "Rapporterte luftangrep i Sanaa",
+    "description": "Kartpunkt for luftangrep i Sanaa i forbindelse med regional opptrapping i Rodehavet.",
+    "publishedAt": "2025-01-12T22:10:00Z",
+    "location": {
+      "lat": 15.3694,
+      "lon": 44.191
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Sanaa",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Jemen"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Sanaa"
+    ],
+    "note": "By-koordinat brukt som omtrentlig bombing-lokasjon."
+  },
+  {
+    "id": "seed-al-hudaydah-strikes-2025-01-13",
+    "type": "bombing",
+    "headline": "Rapporterte luftangrep ved Al Hudaydah",
+    "description": "Kartpunkt for luftangrep mot kystområdet rundt Al Hudaydah.",
+    "publishedAt": "2025-01-13T02:40:00Z",
+    "location": {
+      "lat": 14.7978,
+      "lon": 42.9545
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Al Hudaydah",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Jemen"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Al_Hudaydah"
+    ],
+    "note": "By-koordinat brukt som omtrentlig bombing-lokasjon."
+  },
+  {
+    "id": "seed-isfahan-strikes-2024-04-19",
+    "type": "bombing",
+    "headline": "Rapporterte eksplosjoner ved Isfahan",
+    "description": "Kartpunkt for rapporterte angrep/eksplosjoner i Isfahan-regionen.",
+    "publishedAt": "2024-04-19T04:30:00Z",
+    "location": {
+      "lat": 32.6546,
+      "lon": 51.668
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Isfahan",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Isfahan"
+    ],
+    "note": "By-koordinat brukt som omtrentlig bombing-lokasjon."
+  },
+  {
+    "id": "seed-baghdad-drone-strikes-2024-01-04",
+    "type": "bombing",
+    "headline": "Rapporterte droneangrep i Bagdad",
+    "description": "Kartpunkt for drone-/missilangrep i Bagdad med regional kobling til Midtosten-konflikten.",
+    "publishedAt": "2024-01-04T20:45:00Z",
+    "location": {
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Bagdad",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Irak"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Baghdad"
+    ],
+    "note": "By-koordinat brukt som omtrentlig bombing-lokasjon."
+  },
+  {
+    "id": "seed-tehran-khamenei-death-scenario-2026",
+    "type": "death",
+    "headline": "Scenario: Rapport om Ali Khamenei dod",
+    "description": "Simulert hendelse for demoformaal. Ikke en verifisert nyhet. Brukes for a teste stor dodelig hendelse i kartet.",
+    "publishedAt": "2026-04-10T08:00:00Z",
+    "location": {
+      "lat": 35.6889,
+      "lon": 51.3897
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Teheran",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "death",
+    "tagLabel": "Dodsfall",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Tehran"
+    ],
+    "note": "Ren mock/simulasjon med Teheran-koordinater."
+  },
+  {
+    "id": "seed-natanz-enrichment-strike-2026-01-12",
+    "type": "bombing",
+    "headline": "Israelske luftangrep mot Natanz-anlegget",
+    "description": "Israelske F-35 og F-15I bombet anrikningshallene ved Natanz 12. januar 2026 som åpning på kampanjen mot Irans atomprogram.",
+    "publishedAt": "2026-01-12T02:45:00Z",
+    "location": {
+      "lat": 33.7244,
+      "lon": 51.7261
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Natanz",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Natanz_Nuclear_Facility"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Natanz-anlegget."
+  },
+  {
+    "id": "seed-fordow-bunker-buster-2026-01-13",
+    "type": "bombing",
+    "headline": "Amerikanske GBU-57 mot Fordow-anlegget",
+    "description": "B-2 bombefly slapp bunker buster-bomber mot det underjordiske anrikningsanlegget i Fordow 13. januar 2026.",
+    "publishedAt": "2026-01-13T01:15:00Z",
+    "location": {
+      "lat": 34.8838,
+      "lon": 50.9936
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Fordow",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Fordow_Fuel_Enrichment_Plant"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Fordow-anlegget."
+  },
+  {
+    "id": "seed-tel-aviv-iran-barrage-2026-01-14",
+    "type": "bombing",
+    "headline": "Iransk missilbølge mot Tel Aviv",
+    "description": "IRGC sendte over 200 ballistiske missiler og droner mot Tel Aviv som svar på åpningsangrepet mot Natanz.",
+    "publishedAt": "2026-01-14T03:30:00Z",
+    "location": {
+      "lat": 32.0853,
+      "lon": 34.7818
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Tel Aviv",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Israel"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Tel_Aviv"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat satt til Tel Aviv sentrum."
+  },
+  {
+    "id": "seed-parchin-military-strike-2026-01-15",
+    "type": "bombing",
+    "headline": "Angrep mot Parchin militærkompleks",
+    "description": "Israelske luftangrep traff ammunisjons- og missilutviklingsanlegg i Parchin 15. januar 2026.",
+    "publishedAt": "2026-01-15T02:10:00Z",
+    "location": {
+      "lat": 35.5389,
+      "lon": 51.7806
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Parchin",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Parchin_military_complex"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Parchin."
+  },
+  {
+    "id": "seed-nevatim-iran-counterstrike-2026-01-16",
+    "type": "bombing",
+    "headline": "Iransk motangrep mot Nevatim-basen",
+    "description": "IRGCs Kheibar Shekan-missiler traff Nevatim-luftbasen i Negev 16. januar 2026 med vesentlig skade på rullebaner og hangarer.",
+    "publishedAt": "2026-01-16T22:45:00Z",
+    "location": {
+      "lat": 31.2089,
+      "lon": 34.9653
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Nevatim",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Israel"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Nevatim_Airbase"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Nevatim-basen."
+  },
+  {
+    "id": "seed-arak-heavy-water-strike-2026-01-18",
+    "type": "bombing",
+    "headline": "Angrep mot Arak tungtvannsreaktor",
+    "description": "Koordinert amerikansk-israelsk luftangrep traff tungtvannskomplekset ved Arak 18. januar 2026.",
+    "publishedAt": "2026-01-18T03:00:00Z",
+    "location": {
+      "lat": 34.0906,
+      "lon": 49.2383
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Arak",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/IR-40"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for IR-40 Arak."
+  },
+  {
+    "id": "seed-haifa-refinery-hit-2026-01-20",
+    "type": "bombing",
+    "headline": "Raffineribrann etter missiltreff i Haifa",
+    "description": "Iranske Fattah-missiler traff Bazan-raffineriet i Haifa og utløste en flere dagers brann.",
+    "publishedAt": "2026-01-20T05:40:00Z",
+    "location": {
+      "lat": 32.8008,
+      "lon": 35.0528
+    },
+    "address": {
+      "road": null,
+      "suburb": "Bazan",
+      "city": "Haifa",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Israel"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Bazan_Group"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat satt til Bazan-raffineriet i Haifa."
+  },
+  {
+    "id": "seed-isfahan-nuclear-strike-2026-01-22",
+    "type": "bombing",
+    "headline": "Angrep mot Isfahan atomkonverteringsanlegg",
+    "description": "Israelske kamphelikoptre og missiler slo ut konverteringsbygningene ved UCF Isfahan 22. januar 2026.",
+    "publishedAt": "2026-01-22T01:55:00Z",
+    "location": {
+      "lat": 32.6546,
+      "lon": 51.668
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Isfahan",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Isfahan_Nuclear_Technology_Center"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for UCF Isfahan."
+  },
+  {
+    "id": "seed-bandar-abbas-irgc-strike-2026-01-28",
+    "type": "bombing",
+    "headline": "Angrep mot IRGC-marinen i Bandar Abbas",
+    "description": "Amerikanske Tomahawk-missiler slo ut IRGC Navys hurtigbåtbase og radaranlegg ved Bandar Abbas.",
+    "publishedAt": "2026-01-28T04:20:00Z",
+    "location": {
+      "lat": 27.1833,
+      "lon": 56.2667
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Bandar Abbas",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Bandar_Abbas"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Bandar Abbas."
+  },
+  {
+    "id": "seed-kharg-island-oil-strike-2026-02-02",
+    "type": "bombing",
+    "headline": "Bomber mot Kharg Islands oljeterminal",
+    "description": "Israelsk-amerikansk angrep 2. februar 2026 slo ut lastekraner og pumpestasjoner på Kharg Islands oljeterminal.",
+    "publishedAt": "2026-02-02T03:10:00Z",
+    "location": {
+      "lat": 29.2333,
+      "lon": 50.3167
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Kharg Island",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Kharg_Island"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Kharg Island."
+  },
+  {
+    "id": "seed-al-udeid-iran-strike-2026-02-06",
+    "type": "bombing",
+    "headline": "Iransk missiltreff mot Al Udeid-basen",
+    "description": "Iranske ballistiske missiler traff deler av USAs Al Udeid-luftbase i Qatar 6. februar 2026.",
+    "publishedAt": "2026-02-06T02:50:00Z",
+    "location": {
+      "lat": 25.1177,
+      "lon": 51.3152
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Al Udeid Air Base",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Qatar"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Al_Udeid_Air_Base"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Al Udeid."
+  },
+  {
+    "id": "seed-tabriz-airbase-strike-2026-02-09",
+    "type": "bombing",
+    "headline": "Angrep mot Tabriz luftbase",
+    "description": "Israelske langtrekkende missiler slo ut hangarer og radarenheter ved Tabriz Shahid Fakouri-basen.",
+    "publishedAt": "2026-02-09T02:30:00Z",
+    "location": {
+      "lat": 38.1333,
+      "lon": 46.2353
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Tabriz",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Tabriz_International_Airport"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Tabriz-flyplassen."
+  },
+  {
+    "id": "seed-al-asad-iran-strike-2026-02-12",
+    "type": "bombing",
+    "headline": "Iransk missilangrep mot Al Asad",
+    "description": "IRGC skjøt ballistiske missiler mot Al Asad-basen der amerikanske styrker er utplassert 12. februar 2026.",
+    "publishedAt": "2026-02-12T23:20:00Z",
+    "location": {
+      "lat": 33.7851,
+      "lon": 42.441
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Al Asad Airbase",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Irak"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Al_Asad_Airbase"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Al Asad-basen."
+  },
+  {
+    "id": "seed-kermanshah-missile-strike-2026-02-14",
+    "type": "bombing",
+    "headline": "Angrep mot IRGC-missilbase i Kermanshah",
+    "description": "Israelske F-15I traff IRGCs missilbunkere i fjellene vest for Kermanshah.",
+    "publishedAt": "2026-02-14T02:40:00Z",
+    "location": {
+      "lat": 34.3142,
+      "lon": 47.065
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Kermanshah",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Kermanshah"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Kermanshah."
+  },
+  {
+    "id": "seed-shiraz-airbase-strike-2026-02-20",
+    "type": "bombing",
+    "headline": "Bombing av Shiraz luftbase",
+    "description": "Israelske Delilah-kryssermissiler ødela taktiske jagerfly på Shiraz-basen 20. februar 2026.",
+    "publishedAt": "2026-02-20T03:05:00Z",
+    "location": {
+      "lat": 29.5392,
+      "lon": 52.5894
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Shiraz",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Shiraz_International_Airport"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Shiraz-flyplassen."
+  },
+  {
+    "id": "seed-ashdod-iran-missile-2026-02-24",
+    "type": "bombing",
+    "headline": "Iransk missiltreff mot Ashdod-havnen",
+    "description": "Iranske kryssermissiler unnslapp Arrow-forsvar og traff containerterminalen i Ashdod.",
+    "publishedAt": "2026-02-24T04:15:00Z",
+    "location": {
+      "lat": 31.8044,
+      "lon": 34.6553
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Ashdod",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Israel"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Port_of_Ashdod"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat satt til Ashdod havn."
+  },
+  {
+    "id": "seed-qom-missile-silo-strike-2026-02-27",
+    "type": "bombing",
+    "headline": "Angrep mot underjordiske missilsiloer ved Qom",
+    "description": "Amerikanske GBU-72 bunker buster-bomber traff IRGCs underjordiske missilsiloer utenfor Qom.",
+    "publishedAt": "2026-02-27T01:30:00Z",
+    "location": {
+      "lat": 34.6401,
+      "lon": 50.8764
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Qom",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Qom"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Qom."
+  },
+  {
+    "id": "seed-jerusalem-iran-ballistic-2026-03-02",
+    "type": "bombing",
+    "headline": "Iransk ballistisk missil over Jerusalem",
+    "description": "Ett iransk missil slapp gjennom forsvaret og eksploderte i et ubebodd område vest for Jerusalem 2. mars 2026.",
+    "publishedAt": "2026-03-02T21:45:00Z",
+    "location": {
+      "lat": 31.7683,
+      "lon": 35.2137
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Jerusalem",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Israel"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Jerusalem"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Jerusalem."
+  },
+  {
+    "id": "seed-mashhad-defense-strike-2026-03-04",
+    "type": "bombing",
+    "headline": "Angrep mot Mashhad forsvarskompleks",
+    "description": "Langtrekkende amerikanske JASSM-missiler ødela kontroll- og radaranlegg nær Mashhad internasjonale lufthavn.",
+    "publishedAt": "2026-03-04T02:15:00Z",
+    "location": {
+      "lat": 36.297,
+      "lon": 59.6062
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Mashhad",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Mashhad"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Mashhad."
+  },
+  {
+    "id": "seed-khorramabad-missile-base-2026-03-10",
+    "type": "bombing",
+    "headline": "Khorramabad missilbase rammet",
+    "description": "Israelsk F-35-angrep slo ut underjordisk missilgarasje ved Khorramabad 10. mars 2026.",
+    "publishedAt": "2026-03-10T02:50:00Z",
+    "location": {
+      "lat": 33.4875,
+      "lon": 48.3556
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Khorramabad",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Khorramabad"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Khorramabad."
+  },
+  {
+    "id": "seed-kiryat-shmona-hezbollah-2026-03-11",
+    "type": "bombing",
+    "headline": "Hezbollah-raketter mot Kiryat Shmona",
+    "description": "Hundrevis av Hezbollah-raketter traff Kiryat Shmona 11. mars 2026 som støtte til Iran i storkrigen.",
+    "publishedAt": "2026-03-11T14:30:00Z",
+    "location": {
+      "lat": 33.2075,
+      "lon": 35.5711
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Kiryat Shmona",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Israel"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Kiryat_Shmona"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Kiryat Shmona."
+  },
+  {
+    "id": "seed-hamadan-shahroki-strike-2026-03-15",
+    "type": "bombing",
+    "headline": "Hamadan Shahroki luftbase bombet",
+    "description": "Israelske JDAM-bomber ødela rullebanen og hangarer ved Shahroki-basen i Hamadan.",
+    "publishedAt": "2026-03-15T03:25:00Z",
+    "location": {
+      "lat": 34.8672,
+      "lon": 48.5528
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Hamadan",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Shahrokhi_Air_Base"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Shahroki-basen."
+  },
+  {
+    "id": "seed-eilat-houthi-missile-2026-03-17",
+    "type": "bombing",
+    "headline": "Houthi-missil treff Eilat",
+    "description": "Houthi-styrker i Jemen skjøt ballistiske missiler mot Eilat 17. mars 2026 som del av koordinert Iran-alliert angrep.",
+    "publishedAt": "2026-03-17T23:40:00Z",
+    "location": {
+      "lat": 29.5581,
+      "lon": 34.9482
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Eilat",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Israel"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Eilat"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Eilat."
+  },
+  {
+    "id": "seed-tehran-ikia-irgc-strike-2026-03-22",
+    "type": "bombing",
+    "headline": "Angrep mot IRGC-anlegg ved Imam Khomeini-flyplassen",
+    "description": "Israelsk kryssermissil traff et IRGC-kommandobygg ved Imam Khomeini internasjonale lufthavn sor for Teheran.",
+    "publishedAt": "2026-03-22T03:00:00Z",
+    "location": {
+      "lat": 35.4161,
+      "lon": 51.1522
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Teheran",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Imam_Khomeini_International_Airport"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Imam Khomeini-flyplassen."
+  },
+  {
+    "id": "seed-chabahar-naval-strike-2026-03-28",
+    "type": "bombing",
+    "headline": "Angrep mot Chabahar marinebase",
+    "description": "Amerikanske Tomahawk-missiler fra ubåt slo ut Chabahar marinebase i sorost-Iran 28. mars 2026.",
+    "publishedAt": "2026-03-28T02:10:00Z",
+    "location": {
+      "lat": 25.2919,
+      "lon": 60.643
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Chabahar",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Chabahar"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Chabahar."
+  },
+  {
+    "id": "seed-tel-aviv-iran-hypersonic-2026-04-01",
+    "type": "bombing",
+    "headline": "Iransk Fattah-2 missil mot Tel Aviv",
+    "description": "Iransk hypersonisk Fattah-2 missil traff Glilot-etterretningskomplekset nord for Tel Aviv 1. april 2026.",
+    "publishedAt": "2026-04-01T02:20:00Z",
+    "location": {
+      "lat": 32.1531,
+      "lon": 34.8103
+    },
+    "address": {
+      "road": null,
+      "suburb": "Glilot",
+      "city": "Tel Aviv",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Israel"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Unit_8200"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat satt til Glilot-omradet."
+  },
+  {
+    "id": "seed-bandar-lengeh-strike-2026-04-04",
+    "type": "bombing",
+    "headline": "Angrep mot missilposisjoner ved Bandar Lengeh",
+    "description": "Israelske droner slo ut IRGCs anti-skipsmissiler på åsene over Bandar Lengeh i Hormuzstredet.",
+    "publishedAt": "2026-04-04T03:45:00Z",
+    "location": {
+      "lat": 26.5536,
+      "lon": 54.8808
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Bandar Lengeh",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Bandar_Lengeh"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Bandar Lengeh."
+  },
+  {
+    "id": "seed-bahrain-nsa-strike-2026-04-08",
+    "type": "bombing",
+    "headline": "Iranske missiler mot US Naval Support Activity Bahrain",
+    "description": "IRGC skjøt ballistiske missiler mot USAs 5. flåtes hovedkvarter i Manama 8. april 2026.",
+    "publishedAt": "2026-04-08T04:55:00Z",
+    "location": {
+      "lat": 26.2104,
+      "lon": 50.6072
+    },
+    "address": {
+      "road": null,
+      "suburb": "Juffair",
+      "city": "Manama",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Bahrain"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Naval_Support_Activity_Bahrain"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for NSA Bahrain."
+  },
+  {
+    "id": "seed-yazd-missile-complex-2026-04-10",
+    "type": "bombing",
+    "headline": "Bombing av Yazd missilkompleks",
+    "description": "Amerikanske B-2 bombefly traff underjordiske missilanlegg ved Yazd tidlig 10. april 2026.",
+    "publishedAt": "2026-04-10T01:20:00Z",
+    "location": {
+      "lat": 31.8974,
+      "lon": 54.3568
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Yazd",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Yazd"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Yazd."
+  },
+  {
+    "id": "seed-red-sea-uss-strike-2026-04-14",
+    "type": "conflict",
+    "headline": "Iranske droner treffer amerikansk destroyer",
+    "description": "Iranske Shahed-136 droner traff USS Thomas Hudner i sørlige Rødehavet 14. april 2026 og påførte skip og mannskap store tap.",
+    "publishedAt": "2026-04-14T07:15:00Z",
+    "location": {
+      "lat": 13.8,
+      "lon": 42.7
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Rødehavet",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Internasjonalt farvann"
+    },
+    "tagKey": "conflict",
+    "tagLabel": "Konflikt",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/USS_Thomas_Hudner"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat satt til sorlige Rodehavet."
+  },
+  {
+    "id": "seed-hormuz-closure-2026-04-15",
+    "type": "hormuz",
+    "headline": "Iran stenger Hormuzstredet",
+    "description": "Iran kunngjorde stenging av Hormuzstredet med sjøminer og IRGC-speedbåter 15. april 2026.",
+    "publishedAt": "2026-04-15T10:00:00Z",
+    "location": {
+      "lat": 26.566,
+      "lon": 56.25
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Hormuzstredet",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "hormuz",
+    "tagLabel": "Hormuz",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Strait_of_Hormuz"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Hormuzstredet."
+  },
+  {
+    "id": "seed-zahedan-base-strike-2026-04-17",
+    "type": "bombing",
+    "headline": "Israelsk angrep mot Zahedan garnison",
+    "description": "Israelske droner slo ut IRGCs Quds Force-operasjonsbase i Zahedan sent 17. april 2026.",
+    "publishedAt": "2026-04-17T22:30:00Z",
+    "location": {
+      "lat": 29.4963,
+      "lon": 60.8629
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Zahedan",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Zahedan"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Zahedan."
+  },
+  {
+    "id": "seed-bushehr-vicinity-strike-2026-04-18",
+    "type": "bombing",
+    "headline": "Angrep nær Bushehr atomreaktor",
+    "description": "Amerikanske kryssermissiler slo ut luftvernbatterier og støtteanlegg nær Bushehr atomreaktor 18. april 2026. Reaktoren selv ble ikke truffet.",
+    "publishedAt": "2026-04-18T03:30:00Z",
+    "location": {
+      "lat": 28.8295,
+      "lon": 50.8858
+    },
+    "address": {
+      "road": null,
+      "suburb": null,
+      "city": "Bushehr",
+      "municipality": null,
+      "postcode": null,
+      "county": null,
+      "country": "Iran"
+    },
+    "tagKey": "bombing",
+    "tagLabel": "Bombing",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Bushehr_Nuclear_Power_Plant"
+    ],
+    "note": "Simulert 2026-hendelse. Koordinat fra Wikipedia for Bushehr-reaktoren."
+  }
+]
